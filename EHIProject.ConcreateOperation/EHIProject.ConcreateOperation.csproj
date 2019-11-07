@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\EHIProject.DataConcreate\EHIProject.DataConcreate.csproj" />
+    <ProjectReference Include="..\EHIProject.Interface\EHIProject.Interface.csproj" />
+    <ProjectReference Include="..\EHIProject.Models\EHIProject.Models.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="EntityFramework">
+      <HintPath>..\packages\EntityFramework.6.3.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
