@@ -1,0 +1,16 @@
+C:\Users\SUR\source\repos\EHIPRoject\EHIProject.Models\bin\Debug\netstandard2.0\EHIProject.Models.deps.json
+C:\Users\SUR\source\repos\EHIPRoject\EHIProject.Models\bin\Debug\netstandard2.0\EHIProject.Models.dll
+C:\Users\SUR\source\repos\EHIPRoject\EHIProject.Models\bin\Debug\netstandard2.0\EHIProject.Models.pdb
+C:\Users\SUR\source\repos\EHIPRoject\EHIProject.Models\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.dll
+C:\Users\SUR\source\repos\EHIPRoject\EHIProject.Models\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\SUR\source\repos\EHIPRoject\EHIProject.Models\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\SUR\source\repos\EHIPRoject\EHIProject.Models\bin\Debug\netstandard2.0\System.ComponentModel.DataAnnotations.xml
+C:\Users\SUR\source\repos\EHIPRoject\EHIProject.Models\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\SUR\source\repos\EHIPRoject\EHIProject.Models\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\SUR\source\repos\EHIPRoject\EHIProject.Models\obj\Debug\netstandard2.0\EHIProject.Models.csprojAssemblyReference.cache
+C:\Users\SUR\source\repos\EHIPRoject\EHIProject.Models\obj\Debug\netstandard2.0\EHIProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\SUR\source\repos\EHIPRoject\EHIProject.Models\obj\Debug\netstandard2.0\EHIProject.Models.AssemblyInfoInputs.cache
+C:\Users\SUR\source\repos\EHIPRoject\EHIProject.Models\obj\Debug\netstandard2.0\EHIProject.Models.AssemblyInfo.cs
+C:\Users\SUR\source\repos\EHIPRoject\EHIProject.Models\obj\Debug\netstandard2.0\EHIProject.Models.csproj.CopyComplete
+C:\Users\SUR\source\repos\EHIPRoject\EHIProject.Models\obj\Debug\netstandard2.0\EHIProject.Models.dll
+C:\Users\SUR\source\repos\EHIPRoject\EHIProject.Models\obj\Debug\netstandard2.0\EHIProject.Models.pdb
